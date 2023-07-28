@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Josefin+Sans:wght@400;700&display=swap');
+
+:root {
+    --corlilas: #9353FF;
+    --corlimao: #DAFF01;
+
+}
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.corlimao {
+    color: var(--corlimao);
+}
+
+.corlilas {
+    background-color: var(--corlilas);
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+@media screen and (min-width: 768px) {
+    .div-novidades {
+        width: 696px;
+    }
+}
