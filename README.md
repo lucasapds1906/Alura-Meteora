@@ -25,4 +25,4 @@ Figma: https://www.figma.com/file/TT8Uq6LmVELALMKs4G4HE2/Meteora---Projeto-Boots
 
 **Lucas Silva**
 - Email: lucasapds1906@gmail.com
-- GitHub: (https://github.com/lucasapds1906)
+- GitHub: https://github.com/lucasapds1906
